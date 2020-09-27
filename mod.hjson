@@ -1,0 +1,7 @@
+name: "Mindustry+"
+displayName: "Mindustry[red]+[]"
+author: "Auseawesome"
+description: "A mod to add different and unique things to Mindustry!"
+version: "0.1"
+minGameVersion: "106"
+dependencies: [ ]

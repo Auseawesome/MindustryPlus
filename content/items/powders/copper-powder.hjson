@@ -1,0 +1,5 @@
+type: material
+name: Copper Powder
+description: Copper in powder form. Only used in production.
+cost: 0.3
+color: ffab3a
