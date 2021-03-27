@@ -1,7 +1,8 @@
-name: "Mindustry+"
-displayName: "Mindustry[red]+[]"
-author: "Auseawesome"
-description: "A mod to add different and unique things to Mindustry!"
-version: "0.1"
-minGameVersion: "106"
-dependencies: [ ]
+name: "example-java-mod"
+displayName: "Example Java Mod"
+author: "Anuke"
+main: "example.ExampleJavaMod"
+description: "A jar mod."
+version: 1.0
+minGameVersion: 105
+
