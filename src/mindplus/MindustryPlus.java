@@ -1,4 +1,4 @@
-package example;
+package mindplus;
 
 import arc.*;
 import arc.util.*;
